@@ -1,6 +1,6 @@
 
 
-**Glamify** is a **Flutter mobile app** for **salon service bookings** with **User** and **Admin** roles. Users can browse and book salon services, while admins manage **users, categories, and services** with ease.
+Glamify is a **Flutter mobile app** for salon service bookings with User and Admin roles. Users can browse and book salon services, while admins manage users, categories, and services with ease.
 
 ---
 
@@ -32,16 +32,6 @@
 * Cloudinary for image hosting
 * Centralized theme & styling 
 
---
-
-
-## Future Improvements
-
-* Service booking & scheduling
-* Push notifications
-* Analytics dashboard
-* Image picker & upload
-* Pagination & filtering
-
 ---
+
 
