@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121690185374",
+    "project_id": "glamify-a8a6f",
+    "storage_bucket": "glamify-a8a6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121690185374:android:ac312a8e4b862fe7bfe58f",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqo4CaslXwwAjEnr4j0TEogwSonlfH2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121690185374:android:6acdf8dd14693b3dbfe58f",
+        "android_client_info": {
+          "package_name": "com.glamify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqo4CaslXwwAjEnr4j0TEogwSonlfH2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
