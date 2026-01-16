@@ -1,16 +1,47 @@
-# app
 
-A new Flutter project.
 
-## Getting Started
+**Glamify** is a **Flutter mobile app** for **salon service bookings** with **User** and **Admin** roles. Users can browse and book salon services, while admins manage **users, categories, and services** with ease.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### User Panel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Firebase Authentication (Sign Up / Login / Logout)
+* Browse salon categories & services
+* View service details: image, description, price
+* Search services
+* Clean, responsive UI with bottom navigation
+
+### Admin Panel
+
+* Dashboard with cards for quick access
+* Manage Users (view, role change, delete)
+* Manage Categories & Services (CRUD with Cloudinary images)
+* Role-based access control
+
+---
+
+## Architecture & Tech
+
+* MVVM 
+* GetX (state management & navigation)
+* Named Routing & Dependency Injection
+* Firebase Firestore & Authentication
+* Cloudinary for image hosting
+* Centralized theme & styling 
+
+--
+
+
+## Future Improvements
+
+* Service booking & scheduling
+* Push notifications
+* Analytics dashboard
+* Image picker & upload
+* Pagination & filtering
+
+---
+
